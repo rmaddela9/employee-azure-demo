@@ -10,7 +10,7 @@ public class EmployeeDemoController {
 
 @GetMapping("/message")
 public String message() {
-	return "This is springboot and azure demo api";
+	return "This is springboot and azure demo api details";
 }
 	
 	
